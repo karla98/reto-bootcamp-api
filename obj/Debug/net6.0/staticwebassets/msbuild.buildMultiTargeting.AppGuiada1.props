@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AppGuiada1.props" />
+</Project>
